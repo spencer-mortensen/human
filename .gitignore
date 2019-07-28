@@ -1,0 +1,6 @@
+/lens/cache/
+/lens/coverage/
+/vendor/
+/composer.lock
+*.swp
+TODO
